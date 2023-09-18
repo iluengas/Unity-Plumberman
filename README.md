@@ -2,22 +2,17 @@
 
 This application serves as an exploration of hand gestures in video games. Our objective was to transform the game, Super Mario Bros 3, into an interactive experience using hand gestures. Leveraging Unity for game development and Python with OpenCV for hand mapping, we aimed to redefine classic gameplay through gesture-based interactions.
 
-## Overview
-
-[![Demo](URL_TO_FIRST_IMAGE)](https://link_to_demo_video)
-
-Here you can add a brief overview or summary of your project. Mention the motivation behind the project and what you aimed to achieve with it.
 
 ## Features
 
-- Feature 1: Describe one of the key features of your project.
-- Feature 2: Describe another important feature.
-- Feature 3: You can list additional features here.
+- Feature 1: Recreated level 1 of Super Mario Bros in Unity
+- Feature 2: Create a python script for hand gesture recognition
+- Feature 3: Connected Python Opencv Script to Unity game via websocket connection
 
 ## Screenshots
 
-![Screenshot 1](URL_TO_SCREENSHOT_1)
-![Screenshot 2](URL_TO_SCREENSHOT_2)
+![Screenshot 1](game.png)
+![Screenshot 2](hand.png)
 
 Here, you can include screenshots of your project to provide visual context to the readers.
 

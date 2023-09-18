@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a2d4ca7f039e2a64a86d3412aaf2a29e
+labels:
+- Audio
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - smallRenderer: {instanceID: 0}
+  - bigRenderer: {instanceID: 0}
+  - source: {instanceID: 0}
+  - starPowerAudio: {fileID: 8300000, guid: 9f7acd5ed69ddc541b91d8693d801007, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
