@@ -11,7 +11,7 @@ This application serves as an exploration of hand gestures in video games. Our o
 
 ## Screenshots
 
-![Screenshot 1](game.png)
+![Screenshot 1](game1.png)
 ![Screenshot 2](hand.png)
 
 Here, you can include screenshots of your project to provide visual context to the readers.
