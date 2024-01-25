@@ -5,9 +5,10 @@ This application serves as an exploration of hand gestures in video games. Our o
 
 ## Features
 
-- Feature 1: Recreated level 1 of Super Mario Bros in Unity
+- Feature 1: Worked on level 1 of Super Mario Bros in Unity
 - Feature 2: Create a python script for hand gesture recognition
 - Feature 3: Connected Python Opencv Script to Unity game via websocket connection
+- Feature 4: Displayed hand gesture on game screen giving player visual feedback.
 
 ## Screenshots
 
